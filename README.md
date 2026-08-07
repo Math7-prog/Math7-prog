@@ -24,12 +24,9 @@
 
 ### 📊 GitHub Stats:
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Math7-prog&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math7-prog&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Math7-prog&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Math7-prog&layout=compact&theme=tokyonight&hide_border=true)
 ### 🛠️ Languages and Tools:
 
 <p>
