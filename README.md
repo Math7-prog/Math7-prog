@@ -30,8 +30,6 @@
 ### 🛠️ Languages and Tools:
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,rust,js,java,cs,php,
-    html,css,bootstrap,laravel,mysql,sqlserver,
-    linux,git,github,vscode,pycharm,blender" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,rust,js,java,cs,php,html,css,bootstrap,laravel,mysql,sqlserver,linux,git,github,vscode,pycharm,blender" alt="Skills" />
 </p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Math7-prog&theme=tokyonight&hide_border=true" alt="Streak" /></p>
