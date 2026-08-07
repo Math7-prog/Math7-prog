@@ -1,16 +1,38 @@
-## Hi there 👋
+### 👋 Hello, I'm Masouma!
 
-<!--
-**Math7-prog/Math7-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me:
+
+* 💻 Cybersecurity student at the Faculty of Information Technology, University of Babylon, striving to master programming skills, solve real-world problems, and       expand my technical knowledge.
+* 🛠️ Passionate about building applications and practical utilities, turning coding concepts into efficient digital solutions.
+* 🛡️ Interested in exploring digital security concepts, network analysis, and building tools to protect and analyze systems.
+* 🚀 Constantly working on diverse software projects utilizing languages like **Python**, **Rust**, and **JavaScript**.
+---
+
+### 🛠️ Tech Stack & Tools:
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Programming Languages** | `Python`, `Rust`, `JavaScript`, `Bash`,`Java`,`C++`,`PHP`,`C#` |
+| **Development Tools** | `Git`, `GitHub`, `PyCharm`, `VS Code` |
+| **Systems & Environments** | `Linux`, `Win32 API`, `SQL` |
+
+---
+
+### 📊 GitHub Stats:
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Math7-prog&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math7-prog&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+### 🛠️ Languages and Tools:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,rust,js,java,cs,php,html,css,bootstrap,laravel,mysql,sqlserver,linux,git,github,vscode,pycharm,blender" alt="Skills" />
+</p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Math7-prog&theme=tokyonight&hide_border=true" alt="Streak" /></p>
