@@ -81,6 +81,61 @@
 ### ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                56 commits          ███████░░░░░░░░░░░░░░░░░░   26.17 % 
+🌆 Daytime                48 commits          ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
+🌃 Evening                93 commits          ███████████░░░░░░░░░░░░░░   43.46 % 
+🌙 Night                  17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   30 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Tuesday                  25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Wednesday                30 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Thursday                 14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+Friday                   23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Saturday                 78 commits          █████████░░░░░░░░░░░░░░░░   36.45 % 
+Sunday                   14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Baghdad
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   9 repos             █████████████░░░░░░░░░░░░   52.94 % 
+Rust                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+```
+
+
+
+
+ Last Updated on 14/11/2026 13:31:44 UTC
 <!--END_SECTION:waka-->
 
 ---
