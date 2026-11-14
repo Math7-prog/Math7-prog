@@ -24,6 +24,14 @@
 
 ---
 
+### 🔬 Research Interests
+
+- 🌐 **Web Protocol Security** — HTTP/2 frame processing & low-level protocol analysis
+- 🛡️ **Network Analysis & Forensics** — traffic inspection and anomaly detection
+- 🔍 **Practical Security Evaluation** — implement → measure → publish
+
+---
+
 ### 🧰 Tech Stack
 
 <div align="center">
@@ -67,6 +75,19 @@
 <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=Math7-prog&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&card_width=420" />
 
 </div>
+
+---
+
+### ⏱️ Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+### 🏅 Badges
+
+[![Holopin Board](https://holopin.me/math7prog)](https://holopin.io/@math7prog)
 
 ---
 
