@@ -24,9 +24,7 @@
 
 ### 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Math7-prog&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Math7-prog&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Math7-prog&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ### 🛠️ Languages and Tools:
 
 <p>
