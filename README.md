@@ -17,10 +17,8 @@
 
 - 🎓 **Cybersecurity student** at the Faculty of Information Technology, **University of Babylon**
 - 🛡️ Interested in **network analysis**, **digital security**, and building tools to protect & analyze systems
-- 🛠️ I turn coding concepts into **practical utilities** — local-first, lightweight, fail-safe by design
-- 💻 Working mainly with **Python**, **Rust**, and **JavaScript**
-- 🔭 Currently building an AI-powered university lecture platform (RAG + in-browser code editor)
-- 🌱 Exploring **Win32 API**, low-level networking, and secure code execution
+- 💻 Working mainly with **Python**, **PHP**.
+  
 
 ---
 
