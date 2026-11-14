@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Animated typing header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Cybersecurity+Student+%F0%9F%9B%A1%EF%B8%8F;Python+%26+Rust+Developer+%F0%9F%90%8D%F0%9F%A6%80;Building+Practical+Security+Tools+%F0%9F%94%A7;University+of+Babylon+%F0%9F%8E%93" alt="Typing SVG" />
 
 # 👋 Hello, I'm Masouma!
@@ -20,7 +19,7 @@
 - 🛡️ Interested in **network analysis**, **digital security**, and building tools to protect & analyze systems
 - 🛠️ I turn coding concepts into **practical utilities** — local-first, lightweight, fail-safe by design
 - 💻 Working mainly with **Python**, **Rust**, and **JavaScript**
-- 🔭 Currently building **[Muhadarati](https://github.com/Math7-prog/Muhadarati)** — an AI-powered university lecture platform (RAG + Monaco editor)
+- 🔭 Currently building an AI-powered university lecture platform (RAG + in-browser code editor)
 - 🌱 Exploring **Win32 API**, low-level networking, and secure code execution
 
 ---
@@ -41,27 +40,16 @@
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,docker,blender&theme=dark&perline=8" />
 
-</div>
+**Security & Systems**
 
----
+<img src="https://skillicons.dev/icons?i=kali,powershell,postman&theme=dark&perline=8" />
 
-### 📌 Featured Projects
+<br/>
 
-| Project | What it does | Stack |
-| :-- | :-- | :-- |
-| 🦀 **[Archscan](https://github.com/Math7-prog/Archscan-)** | Architectural health linter for JS/TS — detects circular dependencies via tree-sitter + Tarjan's SCC algorithm | `Rust` |
-| 📚 **[Muhadarati](https://github.com/Math7-prog/Muhadarati)** | University lecture platform with a lecture-grounded AI study assistant (RAG), in-browser code editor & sandboxed execution | `.NET` `Blazor` `PostgreSQL` |
-| 🎥 **[Lecturo](https://github.com/Math7-prog/Lecturo)** ⭐2 | Privacy-first Google Meet lecture recorder — smart frame dropping, A/V sync & crash recovery via fragmented MP4 | `Python` `FFmpeg` |
-| 📡 **[Simple-File-Transfer](https://github.com/Math7-prog/Simple-File-Transfer)** ⭐2 | Socket-based file transfer between computers on a local network | `Python` |
-
-<div align="center">
-
-<a href="https://github.com/Math7-prog/Archscan-">
-  <img src="https://github-readme-stats.zohan.tech/api/pin/?username=Math7-prog&repo=Archscan-&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F0883E&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/Math7-prog/Lecturo">
-  <img src="https://github-readme-stats.zohan.tech/api/pin/?username=Math7-prog&repo=Lecturo&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F0883E&text_color=C9D1D9" />
-</a>
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white&labelColor=0D1117)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white&labelColor=0D1117)
+![Nmap](https://img.shields.io/badge/Nmap-2A6496?style=flat-square&labelColor=0D1117)
+![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D6?style=flat-square&logo=microsoft&logoColor=white&labelColor=0D1117)
 
 </div>
 
