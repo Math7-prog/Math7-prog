@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Cybersecurity+Student+%F0%9F%9B%A1%EF%B8%8F;Python+%26+Rust+Developer+%F0%9F%90%8D%F0%9F%A6%80;Building+Practical+Security+Tools+%F0%9F%94%A7;University+of+Babylon+%F0%9F%8E%93" alt="Typing SVG" />
 
-# 👋 Hello, I'm Masouma!
+#  Hello, I'm Masouma!
 
 [![University](https://img.shields.io/badge/Babylon_University-IT_%C2%B7_Cybersecurity-1F6FEB?style=flat-square&labelColor=0D1117)](https://github.com/Math7-prog)
 [![Location](https://img.shields.io/badge/Iraq-Babil-238636?style=flat-square&labelColor=0D1117)](https://github.com/Math7-prog)
@@ -13,7 +13,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 - 🎓 **Cybersecurity student** at the Faculty of Information Technology, **University of Babylon**
 - 🛡️ Interested in **network analysis**, **digital security**, and building tools to protect & analyze systems
