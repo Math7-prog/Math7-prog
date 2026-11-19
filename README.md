@@ -79,7 +79,7 @@
 ### ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-21%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2037%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20mins-blue?style=flat)
 
@@ -110,12 +110,12 @@ Sunday                   15 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Baghdad
 
 💬 Programming Languages: 
-HTML                     2 hrs 7 mins        ████████████████░░░░░░░░░   65.03 % 
-Dart                     1 hr 7 mins         █████████░░░░░░░░░░░░░░░░   34.50 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+HTML                     4 hrs 30 mins       ████████████████████░░░░░   79.77 % 
+Dart                     1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 16 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -137,7 +137,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/11/2026 06:47:49 UTC
+ Last Updated on 19/11/2026 06:48:46 UTC
 <!--END_SECTION:waka-->
 
 ---
