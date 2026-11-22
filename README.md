@@ -110,18 +110,37 @@ Sunday                   15 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Baghdad
 
 💬 Programming Languages: 
-HTML                     4 hrs 30 mins       ████████████████████░░░░░   79.77 % 
-Dart                     1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+HTML                     4 hrs 30 mins       ██████████████████░░░░░░░   73.23 % 
+Dart                     1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
+Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 39 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 45 mins       ███████████████████████░░   93.47 % 
+Claude Code              24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 29 mins (8.04%)
+
+✍️ 36 lines written by AI, 1,501 lines written by hand (2.34% AI-written)
+
+🔤 119,187 Input Tokens, 29,258 Output Tokens
+
+💵 $2.70 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 2 AI Prompts
+
+Opus                     1,166 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 2.34% of written lines came from AI
+📚 Verbose Prompter — average 22,284 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 67.62% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -137,7 +156,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/11/2026 06:29:14 UTC
+ Last Updated on 22/11/2026 05:58:28 UTC
 <!--END_SECTION:waka-->
 
 ---
