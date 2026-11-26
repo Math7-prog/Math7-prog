@@ -110,37 +110,37 @@ Sunday                   15 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Baghdad
 
 💬 Programming Languages: 
-Dart                     2 hrs 46 mins       ████████████░░░░░░░░░░░░░   46.12 % 
-HTML                     2 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   39.62 % 
-Markdown                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Dart                     3 hrs               ██████████████████░░░░░░░   73.37 % 
+Markdown                 35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 43 mins       ████████████████░░░░░░░░░   62.02 % 
-Claude Code              2 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   37.98 % 
+Claude Code              2 hrs 43 mins       █████████████████░░░░░░░░   66.16 % 
+VS Code                  1 hr 23 mins        ████████░░░░░░░░░░░░░░░░░   33.84 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 22 mins (39.52%)
+⏱ AI Coding Time: 2 hrs 49 mins (68.92%)
 
-✍️ 456 lines written by AI, 1,287 lines written by hand (26.16% AI-written)
+✍️ 1,802 lines written by AI, 267 lines written by hand (87.1% AI-written)
 
-🔤 432,716 Input Tokens, 84,408 Output Tokens
+🔤 624,100 Input Tokens, 162,848 Output Tokens
 
-💵 $7.55 Estimated AI Cost This Week
+💵 $11.13 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 4 AI Prompts
+🧠 3 AI Sessions, 4 AI Prompts
 
-Opus                     1,604 lines         █████████████████████████   100.00 % 
+Opus                     3,004 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 26.16% of written lines came from AI
+🤖 AI-Driven — 87.1% of written lines came from AI
 📚 Verbose Prompter — average 11,260 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 55.86% of changed lines were hand-edited
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 12.7% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -156,7 +156,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/11/2026 07:51:16 UTC
+ Last Updated on 26/11/2026 07:42:15 UTC
 <!--END_SECTION:waka-->
 
 ---
